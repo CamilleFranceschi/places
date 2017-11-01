@@ -66,8 +66,8 @@
     "category": "hipster",
     "price": 90,
     "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 48.827355,
+    "lng": 2.350794
   },
   {
     "name": "Bohemian and Chic in Paris",
@@ -76,8 +76,8 @@
     "category": "hipster",
     "price": 90,
     "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 48.827858,
+    "lng": 2.350775
   },
   {
     "name": "Bohemian and Chic in Paris",
@@ -86,8 +86,8 @@
     "category": "posh",
     "price": 90,
     "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 48.827856,
+    "lng": 2.350773
   },
   {
     "name": "Bohemian and Chic in Paris",
@@ -96,8 +96,8 @@
     "category": "posh",
     "price": 90,
     "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 48.827890,
+    "lng": 2.3507756
   },
   {
     "name": "Bohemian and Chic in Paris",
@@ -106,8 +106,8 @@
     "category": "posh",
     "price": 90,
     "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 48.827809,
+    "lng": 2.350745
   },
   {
     "name": "Bohemian and Chic in Paris",
@@ -116,8 +116,8 @@
     "category": "posh",
     "price": 90,
     "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 48.827899,
+    "lng": 2.350799
   },
   {
     "name": "Bohemian and Chic in Paris",
@@ -126,8 +126,8 @@
     "category": "posh",
     "price": 90,
     "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 48.827888,
+    "lng": 2.350788
   },
   {
     "name": "Bohemian and Chic in Paris",
@@ -136,7 +136,7 @@
     "category": "posh",
     "price": 90,
     "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 48.827877,
+    "lng": 2.350777
   }
 ]
