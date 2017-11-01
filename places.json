@@ -1,7 +1,7 @@
 [
   {
     "name": "Great hipster restaurant",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/places/master/images/hipster-1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/CamilleFranceschi/places/master/images/hipster-1.jpg",
     "type": "restaurant",
     "category": "hipster",
     "price": 164,
@@ -11,7 +11,7 @@
   },
   {
     "name": "Trendy Apt in Buttes Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/places/master/images/hipster-2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/CamilleFranceschi/places/master/images/hipster-2.jpg",
     "type": "restaurant",
     "category": "hipster",
     "price": 200,
@@ -21,7 +21,7 @@
   },
   {
     "name": "Super 60m2 in trendy neighborhood!",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/places/master/images/hipster-3.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/CamilleFranceschi/places/master/images/hipster-3.jpg",
     "type": "restaurant",
     "category": "hipster",
     "price": 150,
@@ -31,7 +31,7 @@
   },
   {
     "name": "Splendide terrasse vue imprenable",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/places/master/images/hipster-4.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/CamilleFranceschi/places/master/images/hipster-4.jpg",
     "type": "restaurant",
     "category": "hipster",
     "price": 115,
@@ -41,7 +41,7 @@
   },
   {
     "name": "Superbe vue à 2 min du Sacré Coeur",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/places/master/images/hipster-5.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/CamilleFranceschi/places/master/images/hipster-5.jpg",
     "type": "bar",
     "category": "hipster",
     "price": 135,
@@ -51,7 +51,7 @@
   },
   {
     "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/places/master/images/hipster-6.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/CamilleFranceschi/places/master/images/hipster-6.jpg",
     "type": "bar",
     "category": "hipster",
     "price": 90,
@@ -61,7 +61,7 @@
   },
   {
     "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/places/master/images/hipster-7.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/CamilleFranceschi/places/master/images/hipster-7.jpg",
     "type": "bar",
     "category": "hipster",
     "price": 90,
@@ -71,7 +71,7 @@
   },
   {
     "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/places/master/images/hipster-8.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/CamilleFranceschi/places/master/images/hipster-8.jpg",
     "type": "bar",
     "category": "hipster",
     "price": 90,
@@ -81,7 +81,7 @@
   },
   {
     "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/places/master/images/posh-1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/CamilleFranceschi/places/master/images/posh-1.jpg",
     "type": "restaurant",
     "category": "posh",
     "price": 90,
@@ -91,7 +91,7 @@
   },
   {
     "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/places/master/images/posh-2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/CamilleFranceschi/places/master/images/posh-2.jpg",
     "type": "restaurant",
     "category": "posh",
     "price": 90,
@@ -101,7 +101,7 @@
   },
   {
     "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/places/master/images/posh-3.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/CamilleFranceschi/places/master/images/posh-3.jpg",
     "type": "restaurant",
     "category": "posh",
     "price": 90,
@@ -111,7 +111,7 @@
   },
   {
     "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/places/master/images/posh-4.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/CamilleFranceschi/places/master/images/posh-4.jpg",
     "type": "restaurant",
     "category": "posh",
     "price": 90,
@@ -121,7 +121,7 @@
   },
   {
     "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/places/master/images/posh-5.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/CamilleFranceschi/places/master/images/posh-5.jpg",
     "type": "restaurant",
     "category": "posh",
     "price": 90,
@@ -131,7 +131,7 @@
   },
   {
     "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/places/master/images/posh-6.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/CamilleFranceschi/places/master/images/posh-6.jpg",
     "type": "restaurant",
     "category": "posh",
     "price": 90,
